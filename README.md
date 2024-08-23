@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcus Vesterlund
 - 👀 I’m interested in UX design and frontend development.
-- 🌱 I’m currently studying in the Master's Programme in Computer and Information Engineering at Uppsala University.
+- 🌱 I’m currently a software engineer at Sogeti.
 - 📫 Contact me: marcuuswesterlund@gmail.com
 
 <!---
